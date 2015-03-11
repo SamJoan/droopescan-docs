@@ -4,10 +4,13 @@ droopescan's docs.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   intro
-   api
+    installation
+    intro
+    api
+    troubleshooting
+
 
 Indices and tables
 ==================
