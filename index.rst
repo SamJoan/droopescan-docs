@@ -1,17 +1,13 @@
-.. Documentation for droopescan documentation master file, created by
-   sphinx-quickstart on Wed Mar 11 10:57:50 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Documentation for droopescan's documentation!
-========================================================
+droopescan's docs.
+==================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+   intro
+   api
 
 Indices and tables
 ==================

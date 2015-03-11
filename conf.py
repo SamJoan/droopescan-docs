@@ -51,8 +51,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Documentation for droopescan'
-copyright = u'2015, Pedro Worcel <pedro.worcel@security-assessment.com>'
-author = u'Pedro Worcel <pedro.worcel@security-assessment.com>'
+copyright = u'2015, Pedro Worcel &lt;pedro.worcel@security-assessment.com&gt;'
+author = u'Pedro Worcel &lt;pedro.worcel@security-assessment.com&gt;'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
