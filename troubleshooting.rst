@@ -24,7 +24,7 @@ It works on my machine! You can troubleshoot what's going on with the
 
 Based on the debug output, we can figure out that `droopescan` is asking for a
 whole bunch of URLs and that google is saying those don't exist in that server.
-It is likely that the server we are aiming `droopescan` at does not run drupal.
+In this particular case, it is likely that the server we are aiming `droopescan` at does not run drupal.
 
 Outdated Requests Library
 -------------------------
